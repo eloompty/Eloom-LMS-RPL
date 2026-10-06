@@ -1,0 +1,13 @@
+{
+    "name": "CertificateTemplate",
+    "alias": "certificatetemplate",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\CertificateTemplate\\Providers\\CertificateTemplateServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
